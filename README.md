@@ -71,19 +71,19 @@ CS Core | DSA, OS, DBMS, CN, OOP
 
 ---
 
-## 🌍 Visitors Counter
-
+### 🌍 Visitors Counter
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Nizamuddin1N/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Nizamuddin1N&style=for-the-badge&color=blue" />
 </p>
+
 
 ---
 
-## 🐍 Contribution Snake
-
+### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nizamuddin1N/Nizamuddin1N/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Nizamuddin1N/Nizamuddin1N/output/github-snake.svg" />
 </p>
+
 
 ---
 
