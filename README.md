@@ -81,8 +81,10 @@ CS Core | DSA, OS, DBMS, CN, OOP
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nizamuddin1N/Nizamuddin1N/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Nizamuddin1N/Nizamuddin1N/output/snake.svg" />
 </p>
+
+
 
 
 
