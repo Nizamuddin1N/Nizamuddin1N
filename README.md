@@ -18,7 +18,7 @@
 
 | Project | Live | Code |
 |---|---|---|
-👨‍💻 Real-Time Code Editor | coming soon | https://github.com/Nizamuddin1N/Collaborative-Real-Time-Code-Editor  
+👨‍💻 Real-Time Code Editor |[Live Demo](https://collaborative-real-time-code-editor-1.onrender.com)| https://github.com/Nizamuddin1N/Collaborative-Real-Time-Code-Editor  
 🩺 MEDIGENIE | coming soon | https://github.com/Nizamuddin1N/MEDIGENIE  
 🌍 Wanderlust Travel App | coming soon | https://github.com/Nizamuddin1N/Wanderlust  
 
@@ -75,17 +75,6 @@ CS Core | DSA, OS, DBMS, CN, OOP
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nizamuddin1N&style=for-the-badge&color=blue" />
 </p>
-
-
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nizamuddin1N/Nizamuddin1N/output/snake.svg" />
-</p>
-
-
-
 
 
 ---
