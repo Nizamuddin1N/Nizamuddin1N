@@ -18,9 +18,10 @@
 
 | Project | Live | Code |
 |---|---|---|
-👨‍💻 Real-Time Code Editor |[Live Demo](https://collaborative-real-time-code-editor-1.onrender.com)| https://github.com/Nizamuddin1N/Collaborative-Real-Time-Code-Editor  
-🩺 MEDIGENIE | coming soon | https://github.com/Nizamuddin1N/MEDIGENIE  
-🌍 Wanderlust Travel App | coming soon | https://github.com/Nizamuddin1N/Wanderlust  
+Real-Time Code Editor |[Live Demo](https://collaborative-real-time-code-editor-1.onrender.com)| https://github.com/Nizamuddin1N/Collaborative-Real-Time-Code-Editor  
+MEDIGENIE | coming soon | https://github.com/Nizamuddin1N/MEDIGENIE  
+Wanderlust Travel App | coming soon | https://github.com/Nizamuddin1N/Wanderlust 
+DevNest | coming soon | https://github.com/Nizamuddin1N/devNest
 
 > ⭐ Live deployment links coming — working on CI/CD & hosting 🛠️
 
