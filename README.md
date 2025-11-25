@@ -1,20 +1,20 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=2800&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Nizamuddin+👋;Full-Stack+MERN+Developer;AI+%26+ML+Enthusiast;Real-Time+App+Builder;Cloud+%2F+DevOps+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=2800&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Nizamuddin+;Full-Stack+MERN+Developer;AI+%26+ML+Enthusiast;Real-Time+App+Builder;Cloud+%2F+DevOps+Learner" />
 </p>
 
 <div align="center">
   
-🔥 Passionate about building **Real-Time Systems, ML products & Scalable Web Apps**
+  Passionate about building **Real-Time Systems, ML products & Scalable Web Apps**
 
 </div>
 
 ---
 
-## 🚀 Portfolio & Live Work
+## Portfolio & Live Work
 
-🌐 **Portfolio Website** — *[Live](https://portfolio-1-trha.onrender.com)*  
-🛠️ Meanwhile, check my top builds 👇  
+**Portfolio Website** — *[Live](https://portfolio-1-trha.onrender.com)*  
+Meanwhile, check my top builds
 
 | Project | Live | Code |
 |---|---|---|
@@ -23,21 +23,21 @@ MEDIGENIE | coming soon | https://github.com/Nizamuddin1N/MEDIGENIE
 Wanderlust Travel App | coming soon | https://github.com/Nizamuddin1N/Wanderlust 
 DevNest | coming soon | https://github.com/Nizamuddin1N/devNest
 
-> ⭐ Live deployment links coming — working on CI/CD & hosting 🛠️
+> Live deployment links coming — working on CI/CD & hosting 
 
 ---
 
-## 🧠 About Me
-- 🎓 B.Tech CSE (AI & ML) — University of Delhi  
-- 💻 MERN + ML + DevOps learner  
-- 🧪 Building real-time tools using **Socket.IO + Redis**  
-- 🧠 ML models + production deployment  
-- 🤝 Open for **internships / freelance / collabs**  
-- 🧩 DSA + System Design practice  
+## About Me
+- B.Tech CSE (AI & ML) — University of Delhi  
+- MERN + ML + DevOps learner  
+- Building real-time tools using **Socket.IO + Redis**  
+- ML models + production deployment  
+- Open for **internships / freelance / collabs**  
+- DSA + System Design practice  
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Category | Tools |
 |---|---|
@@ -51,7 +51,7 @@ CS Core | DSA, OS, DBMS, CN, OOP
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nizamuddin1N&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="160" />
@@ -64,7 +64,7 @@ CS Core | DSA, OS, DBMS, CN, OOP
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Nizamuddin1N&theme=algolia&no-bg=true&no-frame=true&row=1&margin-w=10" />
@@ -72,7 +72,7 @@ CS Core | DSA, OS, DBMS, CN, OOP
 
 ---
 
-### 🌍 Visitors Counter
+### Visitors Counter
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nizamuddin1N&style=for-the-badge&color=blue" />
 </p>
@@ -80,7 +80,7 @@ CS Core | DSA, OS, DBMS, CN, OOP
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 <p align="center">
 <a href="mailto:nizamuddin00128@gmail.com"><img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -90,9 +90,9 @@ CS Core | DSA, OS, DBMS, CN, OOP
 
 ---
 
-### ⚡ Fun Fact  
-I love building **real-time, collaborative apps** that feel like magic 🔥  
+### Fun Fact  
+I love building **real-time, collaborative apps** that feel like magic
 
 ---
 
-⭐ *If you like my work, give a star to my repos!*
+*If you like my work, give a star to my repos!*
