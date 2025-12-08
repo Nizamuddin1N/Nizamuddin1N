@@ -1,11 +1,6 @@
-<!-- Profile Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=2800&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Nizamuddin+;Full-Stack+MERN+Developer;AI+%26+ML+Enthusiast;Real-Time+App+Builder;Cloud+%2F+DevOps+Learner" />
-</p>
-
 <div align="center">
   
-  Passionate about building **Real-Time Systems, ML products & Scalable Web Apps**
+  Passionate about building **SDE | MERN Stack Developer | ML & DevOps Learner**
 
 </div>
 
@@ -29,7 +24,7 @@ DevNest | coming soon | https://github.com/Nizamuddin1N/devNest
 
 ## About Me
 - B.Tech CSE (AI & ML) — University of Delhi  
-- MERN + ML + DevOps learner  
+- SDE + MERN + ML + DevOps learner  
 - Building real-time tools using **Socket.IO + Redis**  
 - ML models + production deployment  
 - Open for **internships / freelance / collabs**  
@@ -89,10 +84,3 @@ CS Core | DSA, OS, DBMS, CN, OOP
 </p>
 
 ---
-
-### Fun Fact  
-I love building **real-time, collaborative apps** that feel like magic
-
----
-
-*If you like my work, give a star to my repos!*
