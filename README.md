@@ -17,6 +17,7 @@ Real-Time Code Editor |[Live Demo](https://collaborative-real-time-code-editor-1
 MEDIGENIE | coming soon | https://github.com/Nizamuddin1N/MEDIGENIE  
 Wanderlust Travel App | coming soon | https://github.com/Nizamuddin1N/Wanderlust 
 DevNest | coming soon | https://github.com/Nizamuddin1N/devNest
+food-delivey-platform | coming soon | https://github.com/Nizamuddin1N/food-delivery-platform
 
 > Live deployment links coming — working on CI/CD & hosting 
 
