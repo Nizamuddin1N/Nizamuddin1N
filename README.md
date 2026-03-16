@@ -14,10 +14,10 @@ Meanwhile, check my top builds
 | Project | Live | Code |
 |---|---|---|
 Real-Time Code Editor |[Live Demo](https://collaborative-real-time-code-editor-1.onrender.com)| https://github.com/Nizamuddin1N/Collaborative-Real-Time-Code-Editor  
-MEDIGENIE | [Live Demo](https://foodrush-hcxcf3vtg-nizamuddin1ns-projects.vercel.app/)| https://github.com/Nizamuddin1N/MEDIGENIE  
+MEDIGENIE | coming soon | https://github.com/Nizamuddin1N/MEDIGENIE  
 Wanderlust Travel App | coming soon | https://github.com/Nizamuddin1N/Wanderlust 
 DevNest | [Live Demo](https://devnestfot.onrender.com) | https://github.com/Nizamuddin1N/devNest
-food-delivey-platform | coming soon | https://github.com/Nizamuddin1N/food-delivery-platform
+food-delivey-platform | [Live Demo](https://foodrush-hcxcf3vtg-nizamuddin1ns-projects.vercel.app/) | https://github.com/Nizamuddin1N/food-delivery-platform
 
 > Live deployment links coming — working on CI/CD & hosting 
 
