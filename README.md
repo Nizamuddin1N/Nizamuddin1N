@@ -13,11 +13,11 @@ https://portfolio-1-trha.onrender.com
 
 | Project | Live | Code |
 |---|---|---|
-FoodRush | https://foodrush-hcxcf3vtg-nizamuddin1ns-projects.vercel.app | https://github.com/Nizamuddin1N/food-delivery-platform |
-lineCODE | https://linecode-five.vercel.app | https://github.com/Nizamuddin1N/lineCODE |
+FoodRush | https://foodrush-nizm.vercel.app | https://github.com/Nizamuddin1N/food-delivery-platform |
+lineCODE | https://linecode-nizm.vercel.app | https://github.com/Nizamuddin1N/lineCODE |
 MEDIGENIE | Coming Soon | https://github.com/Nizamuddin1N/MEDIGENIE |
 Wanderlust Travel App | Coming Soon | https://github.com/Nizamuddin1N/Wanderlust |
-DevNest | https://devnestfot.onrender.com | https://github.com/Nizamuddin1N/devNest |
+DevNest | https://devnest-nizm.vercel.app | https://github.com/Nizamuddin1N/devNest |
 ---
 
 # ⚙️ Tech Stack
