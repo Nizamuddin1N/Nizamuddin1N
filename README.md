@@ -14,7 +14,9 @@ https://portfolio-1-trha.onrender.com
 # ⚙️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,nodejs,python,react,nextjs,redux,express,flutter,tailwind,mongodb,firebase,docker,aws,vscode,figma,git,github,postman,linux&perline=9" />
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,express,tailwind,mongodb,mysql,postgres,redis,firebase,docker,kubernetes,aws,git,github,postman,linux,vscode,figma&perline=9" />
+</p>
 </p>
 
 ---
