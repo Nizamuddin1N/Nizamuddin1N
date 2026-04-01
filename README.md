@@ -9,7 +9,7 @@ Passionate about building scalable systems | SDE | MERN Stack Developer | ML & D
 ## 🚀 Portfolio
 
 **Portfolio Website**  
-https://portfolio-1-trha.onrender.com
+https://portfolio-nizm.vercel.app
 
 # ⚙️ Tech Stack
 
