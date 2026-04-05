@@ -60,8 +60,4 @@ https://portfolio-nizm.vercel.app
   <a href="https://linkedin.com/in/nizamuddin12">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  &nbsp;
-  <a href="https://github.com/Nizamuddin1N">
-    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white">
-  </a>
 </p>
